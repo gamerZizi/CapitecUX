@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="capitecux.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
